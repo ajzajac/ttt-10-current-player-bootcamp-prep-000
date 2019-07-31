@@ -5,6 +5,7 @@ board.each do |tile|
   if |tile| != nil
     turns += 1
 end
+end
 
 def current_player(board)
   

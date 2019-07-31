@@ -1,7 +1,7 @@
 turns = 0
 
 def turn_count(board)
- board.each do |turns
+ board.each do |
 end
 
 def current_player(board)

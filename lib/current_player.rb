@@ -1,7 +1,7 @@
 turns = 0
 
 def turn_count(board)
-  board.length = turns
+  board.length.push(turns)
 end
 
 def current_player(board)

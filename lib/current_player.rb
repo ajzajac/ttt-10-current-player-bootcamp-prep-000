@@ -6,7 +6,3 @@ board.each do |tile|
     turns += 1
 end
 end
-
-def current_player(board)
-  
-end

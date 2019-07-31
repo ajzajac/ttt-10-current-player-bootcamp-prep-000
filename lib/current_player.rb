@@ -1,5 +1,5 @@
 
-def turn_count(board)
+def turn_count
 turns = 0 
 board.each do |tile|
   if tile != "" || " "

@@ -6,3 +6,4 @@ board.each do |tile|
     turns += 1
 end
 end
+end

@@ -1,7 +1,4 @@
-def current_player
-  
-end
-
-def turn_count(board)
+turns = 0
+def turn_count{|board|
   
 end

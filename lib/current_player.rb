@@ -1,5 +1,6 @@
 turns = 0
-def turn_count(board)
+
+turn_count.each do 
   
   
 end
